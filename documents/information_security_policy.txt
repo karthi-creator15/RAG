@@ -1,0 +1,5 @@
+Information Security Policy
+[PAGE 1]
+Employees must use multi-factor authentication when accessing company systems remotely. Passwords must not be shared.
+[PAGE 2]
+Suspected phishing emails must be reported to IT Security immediately. Employees must not open suspicious attachments or links.
