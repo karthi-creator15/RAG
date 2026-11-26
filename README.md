@@ -1,4 +1,4 @@
-# Week 7 RAG Assessment
+# RAG Assessment
 
 ## Windows setup
 
